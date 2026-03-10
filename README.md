@@ -91,18 +91,24 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUhammadsinan18&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=MUhammadsinan18&theme=dark&hide_border=true" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUhammadsinan18&theme=dark&hide_border=true&layout=compact" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUhammadsinan18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=MUhammadsinan18&theme=tokyonight&hide_border=false" alt="streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUhammadsinan18&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="top langs" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=MUhammadsinan18&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUhammadsinan18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+</p>
 
 ---
 
