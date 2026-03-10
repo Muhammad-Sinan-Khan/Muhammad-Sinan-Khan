@@ -93,7 +93,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MUhammadsinan18&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUhammadsinan18&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=MUhammadsinan18&theme=dark&hide_border=true" alt="streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUhammadsinan18&theme=dark&hide_border=true&layout=compact" alt="top langs" />
 </p>
