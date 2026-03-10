@@ -91,23 +91,15 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUhammadsinan18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=MUhammadsinan18&theme=tokyonight&hide_border=false" alt="streak" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MUhammadsinan18&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MUhammadsinan18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUhammadsinan18&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="top langs" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUhammadsinan18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUhammadsinan18&theme=tokyo-night&hide_border=false" alt="activity graph" />
 </p>
 
 ---
