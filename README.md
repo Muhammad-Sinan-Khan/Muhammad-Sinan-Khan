@@ -91,7 +91,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=MUhammadsinan18&theme=tokyonight&hide_border=false" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Sinan-Khan&theme=tokyonight&hide_border=false" alt="streak" />
 </p>
 
 <p align="left">
@@ -99,7 +99,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUhammadsinan18&theme=tokyo-night&hide_border=false" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Sinan-Khan&theme=tokyo-night&hide_border=false" alt="activity graph" />
 </p>
 
 ---
